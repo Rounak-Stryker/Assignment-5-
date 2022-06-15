@@ -1,0 +1,108 @@
+Enter a string: Rounak          #Q1
+kanuoR
+Enter start range4              #Q2
+Énter end range40
+Enter a number6
+6 is divisible by  6
+12 is divisible by  6
+18 is divisible by  6
+24 is divisible by  6
+30 is divisible by  6
+36 is divisible by  6
+Enter first side: 7             #Q3
+Enter second side: 8
+Enter third side: 13
+The area of triangle is 24.25
+*                               #Q4
+**
+***
+****
+*****
+****
+***
+**
+*
+
+Enter number of rows8           #Q5
+A
+BC
+DEF
+GHIJ
+KLMNO
+PQRSTU
+VWXYZAB
+CDEFGHIJ
+Enter starting range2           #Q6
+Enter ending range30
+2 is a prime number
+3 is a prime number
+5 is a prime number
+7 is a prime number
+11 is a prime number
+13 is a prime number
+17 is a prime number
+19 is a prime number
+23 is a prime number
+29 is a prime number
+77                          #Q7
+154
+231
+308
+385
+462
+Enter an integer: 2             #Q8
+Enter an integer: 34
+Enter an integer: -76
+Enter an integer: 29
+Enter an integer: 2
+Enter an integer: 55
+Enter an integer: -42
+Enter an integer: 12
+Enter an integer: 17
+Enter an integer: 0
+[2, 34, -76, 29, 2, 55, -42, 12, 17, 0]
+2 is a positive number
+2 is an even number
+34 is a positive number
+34 is an even number
+-76 is a negative number
+-76 is an even number
+29 is a positive number
+29 is an odd number
+2 is a positive number
+2 is an even number
+55 is a positive number
+55 is an odd number
+-42 is a negative number
+-42 is an even number
+12 is a positive number
+12 is an even number
+17 is a positive number
+17 is an odd number
+0 is an even number
+2 occurs 2 times
+34 occurs 1 times
+-76 occurs 1 times
+29 occurs 1 times
+2 occurs 2 times
+55 occurs 1 times
+-42 occurs 1 times
+12 occurs 1 times
+17 occurs 1 times
+0 occurs 1 times
+Enter total elements in the list7       #Q9
+Enter a word Akshat
+Enter a word Aniket
+Enter a word Gautam
+Enter a word Rounak
+Enter a word Chirag
+Enter a word Aniket
+Enter a word Kuldeep
+Akshat occurs 1 times
+Aniket occurs 2 times
+Gautam occurs 1 times
+Pulkit occurs 1 times
+Chirag occurs 1 times
+Aniket occurs 2 times
+Kuldeep occurs 1 times
+PS C:\Users\pulki>
